@@ -22,9 +22,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Shirley Redroban
-## Holi 
-### Holii
+Shirley Redroban
+Holi 
+Holii
 
 - Bulleted
 - List
